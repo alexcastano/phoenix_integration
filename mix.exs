@@ -41,8 +41,8 @@ defmodule PhoenixIntegration.Mixfile do
 
   defp deps do
     [
-      {:phoenix, "~> 1.3"},
-      {:phoenix_html, "~> 2.10"},
+      {:phoenix, "~> 1.4"},
+      {:phoenix_html, "~> 2.12"},
       {:floki, ">= 0.18.0"},
 
       # Docs dependencies
